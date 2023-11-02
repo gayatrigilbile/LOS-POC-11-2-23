@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_visibility">
+    <par_dashboard_visibility action="DELETE">
+        <dashboard display_value="">700a255f63e13110063e951bfe670c5e</dashboard>
+        <experience display_value="LOS POC Dashboard ">8d0a255f34e1311090be00da91ea6965</experience>
+        <sys_class_name>par_dashboard_visibility</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-03 07:54:09</sys_created_on>
+        <sys_id>740a255fb8e13110fc3fbeb57310485d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope>
+        <sys_update_name>par_dashboard_visibility_740a255fb8e13110fc3fbeb57310485d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-03 07:54:09</sys_updated_on>
+    </par_dashboard_visibility>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</application>
+        <file_path/>
+        <instance_id>eaa22c40db0a5f0889535d00cf9619b6</instance_id>
+        <instance_name>dev58655</instance_name>
+        <name>par_dashboard_visibility_740a255fb8e13110fc3fbeb57310485d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_visibility"><par_dashboard_visibility action="INSERT_OR_UPDATE"><dashboard display_value="">700a255f63e13110063e951bfe670c5e</dashboard><experience display_value="LOS POC Dashboard ">8d0a255f34e1311090be00da91ea6965</experience><sys_class_name>par_dashboard_visibility</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-03 07:54:09</sys_created_on><sys_id>740a255fb8e13110fc3fbeb57310485d</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package><sys_policy/><sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope><sys_update_name>par_dashboard_visibility_740a255fb8e13110fc3fbeb57310485d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-03 07:54:09</sys_updated_on></par_dashboard_visibility></record_update>]]></payload>
+        <payload_hash>-902374534</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-03 08:00:44</sys_created_on>
+        <sys_id>2d8be5df47e1311077acc7de826d4366</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18af48dbe410000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-03 08:00:44</sys_updated_on>
+        <type>PAR Dashboard Visibility</type>
+        <update_guid>e98be5df3ee13110cee1170e16a40466</update_guid>
+        <update_guid_history>e98be5df3ee13110cee1170e16a40466:-902374534</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">e98be5df47e1311077acc7de826d4374</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-03 08:00:44</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_visibility">par_dashboard_visibility</sys_db_object>
+        <sys_id>5f94a5b9d2bd4480bba650a89ae41000</sys_id>
+        <sys_metadata>740a255fb8e13110fc3fbeb57310485d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope>
+        <sys_scope_delete display_value="">c71a3250316f4dba9db57f2d39538ae4</sys_scope_delete>
+        <sys_update_name>par_dashboard_visibility_740a255fb8e13110fc3fbeb57310485d</sys_update_name>
+        <sys_update_version display_value="par_dashboard_visibility_740a255fb8e13110fc3fbeb57310485d">2d8be5df47e1311077acc7de826d4366</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-03 08:00:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

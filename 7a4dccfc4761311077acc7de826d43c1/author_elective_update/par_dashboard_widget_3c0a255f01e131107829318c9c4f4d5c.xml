@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">b80a255fc2e13110b097d4181bcbcd5e</canvas>
+        <component display_value="">d24d53f60350de7a652caf3188a46ed2</component>
+        <component_props>{"scoreSize":"md","headingPosition":"top","sparklineStyle":"area","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":false,"enableRealTimeUpdate":true,"showZero":true,"colorConfig":{"type":"default"},"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"Loan Requests","sourceType":"table","tableOrViewName":"x_1070677_los_po_0_loan_requests","filterQuery":"assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe","id":"dGFibGV0YXNrMTY1Mzg0MTkxNzIyOA==","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"headerTitle":"My Tasks","showBorder":true,"bareBorder":false,"showDataPassthrough":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV0YXNrMTY1Mzg0MTkxNzIyOA==","id":"ZEdGaWJHVjBZWE5yTVRZMU16ZzBNVGt4TnpJeU9BPT0xNjUzODQyMzE4NDk1","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":null,"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableDrilldown":true,"showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","dateFormat":"default","hideMatrixAggregate":false,"newReporting":false,"configVersion":"23.0.0-ci-SNAPSHOT"}</component_props>
+        <h>9</h>
+        <name/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-03 07:54:10</sys_created_on>
+        <sys_id>3c0a255f01e131107829318c9c4f4d5c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope>
+        <sys_update_name>par_dashboard_widget_3c0a255f01e131107829318c9c4f4d5c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-03 07:54:14</sys_updated_on>
+        <visualization/>
+        <w>16</w>
+        <x>0</x>
+        <y>3</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</application>
+        <file_path/>
+        <instance_id>eaa22c40db0a5f0889535d00cf9619b6</instance_id>
+        <instance_name>dev58655</instance_name>
+        <name>par_dashboard_widget_3c0a255f01e131107829318c9c4f4d5c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">b80a255fc2e13110b097d4181bcbcd5e</canvas><component display_value="">d24d53f60350de7a652caf3188a46ed2</component><component_props>{"scoreSize":"md","headingPosition":"top","sparklineStyle":"area","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":false,"enableRealTimeUpdate":true,"showZero":true,"colorConfig":{"type":"default"},"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"Loan Requests","sourceType":"table","tableOrViewName":"x_1070677_los_po_0_loan_requests","filterQuery":"assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe","id":"dGFibGV0YXNrMTY1Mzg0MTkxNzIyOA==","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"headerTitle":"My Tasks","showBorder":true,"bareBorder":false,"showDataPassthrough":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV0YXNrMTY1Mzg0MTkxNzIyOA==","id":"ZEdGaWJHVjBZWE5yTVRZMU16ZzBNVGt4TnpJeU9BPT0xNjUzODQyMzE4NDk1","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":null,"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableDrilldown":true,"showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","dateFormat":"default","hideMatrixAggregate":false,"newReporting":false,"configVersion":"23.0.0-ci-SNAPSHOT"}</component_props><h>9</h><name/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-03 07:54:10</sys_created_on><sys_id>3c0a255f01e131107829318c9c4f4d5c</sys_id><sys_mod_count>1</sys_mod_count><sys_name/><sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package><sys_policy/><sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope><sys_update_name>par_dashboard_widget_3c0a255f01e131107829318c9c4f4d5c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-03 07:54:14</sys_updated_on><visualization/><w>16</w><x>0</x><y>3</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>-471999818</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>764dccfc4761311077acc7de826d43c4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-03 07:54:14</sys_created_on>
+        <sys_id>0a0a655f47e1311077acc7de826d4346</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18af487c9110000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-03 07:54:14</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>8e0a655f3de13110ddcbc7a3d54dc445</update_guid>
+        <update_guid_history>8e0a655f3de13110ddcbc7a3d54dc445:-471999818,c60a655fb5e13110471c529ee519a044:-1100989408</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">6d8be5df47e1311077acc7de826d43ad</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-03 08:00:45</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>00dfc16b2ff9485781cad5e81137bfa9</sys_id>
+        <sys_metadata>3c0a255f01e131107829318c9c4f4d5c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope>
+        <sys_scope_delete display_value="">c71a3250316f4dba9db57f2d39538ae4</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_3c0a255f01e131107829318c9c4f4d5c</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_3c0a255f01e131107829318c9c4f4d5c">0a0a655f47e1311077acc7de826d4346</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-03 08:00:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="DELETE">
+        <includes/>
+        <macroponent display_value="Landing Page">18c1c2856e653110e62727812bbba1a4</macroponent>
+        <name>data_row_3_data</name>
+        <preset/>
+        <required_translations>[ {
+  "code" : null,
+  "message" : "{0} out of 5",
+  "comment" : ""
+} ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {TransformApiHelpers} params.helpers
+ */
+function evaluateProperty({
+    api,
+    helpers
+}) {
+    const input = api.data.evam_popular_articles.compositeDataViews;
+    for (var i = 0; i < input.items.length; i++) {
+        var model = input.items[i].propValues;
+        if (model.model.rating != "") {
+            model.detailValueTwo = helpers.translateSync("{0} out of 5", model.model.rating);
+        }
+    }
+    return input;
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-09-26 09:51:35</sys_created_on>
+        <sys_id>90c1c285f7653110eb4779f032d66d98</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>data_row_3_data</sys_name>
+        <sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope>
+        <sys_update_name>sys_ux_client_script_90c1c285f7653110eb4779f032d66d98</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-09-26 09:51:35</sys_updated_on>
+        <target/>
+        <type>transform</type>
+    </sys_ux_client_script>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</application>
+        <file_path/>
+        <instance_id>eaa22c40db0a5f0889535d00cf9619b6</instance_id>
+        <instance_name>dev58655</instance_name>
+        <name>sys_ux_client_script_90c1c285f7653110eb4779f032d66d98</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ux_client_script"&gt;&lt;sys_ux_client_script action="INSERT_OR_UPDATE"&gt;&lt;includes/&gt;&lt;macroponent display_value="Landing Page"&gt;18c1c2856e653110e62727812bbba1a4&lt;/macroponent&gt;&lt;name&gt;data_row_3_data&lt;/name&gt;&lt;preset/&gt;&lt;required_translations&gt;[ {
+  "code" : null,
+  "message" : "{0} out of 5",
+  "comment" : ""
+} ]&lt;/required_translations&gt;&lt;script&gt;&lt;![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {TransformApiHelpers} params.helpers
+ */
+function evaluateProperty({
+    api,
+    helpers
+}) {
+    const input = api.data.evam_popular_articles.compositeDataViews;
+    for (var i = 0; i &lt; input.items.length; i++) {
+        var model = input.items[i].propValues;
+        if (model.model.rating != "") {
+            model.detailValueTwo = helpers.translateSync("{0} out of 5", model.model.rating);
+        }
+    }
+    return input;
+}]]&gt;&lt;/script&gt;&lt;script_api_version&gt;2.0.0&lt;/script_api_version&gt;&lt;sys_class_name&gt;sys_ux_client_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;system&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-09-26 09:51:35&lt;/sys_created_on&gt;&lt;sys_id&gt;90c1c285f7653110eb4779f032d66d98&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;data_row_3_data&lt;/sys_name&gt;&lt;sys_package display_value="LOS POC" source="x_1070677_los_po_0"&gt;7a4dccfc4761311077acc7de826d43c1&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="LOS POC"&gt;7a4dccfc4761311077acc7de826d43c1&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ux_client_script_90c1c285f7653110eb4779f032d66d98&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;system&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-09-26 09:51:35&lt;/sys_updated_on&gt;&lt;target/&gt;&lt;type&gt;transform&lt;/type&gt;&lt;/sys_ux_client_script&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-933113405</payload_hash>
+        <record_name>data_row_3_data</record_name>
+        <reverted_from/>
+        <source>764dccfc4761311077acc7de826d43c4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-09-26 09:51:47</sys_created_on>
+        <sys_id>bbc18a854765311077acc7de826d4398</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ad0e6e6170000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-09-26 09:51:47</sys_updated_on>
+        <type>UX Client Script</type>
+        <update_guid>ffc18a85bc653110a1ac0eba013e8197</update_guid>
+        <update_guid_history>ffc18a85bc653110a1ac0eba013e8197:-933113405</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-03 07:47:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_client_script">sys_ux_client_script</sys_db_object>
+        <sys_id>07074542dc884c3880f43c430d475a10</sys_id>
+        <sys_metadata>90c1c285f7653110eb4779f032d66d98</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>data_row_3_data</sys_name>
+        <sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope>
+        <sys_scope_delete display_value="">c71a3250316f4dba9db57f2d39538ae4</sys_scope_delete>
+        <sys_update_name>sys_ux_client_script_90c1c285f7653110eb4779f032d66d98</sys_update_name>
+        <sys_update_version display_value="sys_ux_client_script_90c1c285f7653110eb4779f032d66d98">bbc18a854765311077acc7de826d4398</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-03 07:47:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

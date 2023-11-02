@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-27 09:01:00</sys_created_on>
+        <sys_id>21cfb21947e1311077acc7de826d4318</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1070677_los_po_0_underwriter_table.x_1070677_los_po_0.los loan appraiser</sys_name>
+        <sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope>
+        <sys_security_acl display_value="x_1070677_los_po_0_underwriter_table">9dcf721947e1311077acc7de826d43a8</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_21cfb21947e1311077acc7de826d4318</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-27 09:01:00</sys_updated_on>
+        <sys_user_role display_value="x_1070677_los_po_0.los loan appraiser" name="x_1070677_los_po_0.los loan appraiser">3a4dccfc4761311077acc7de826d43dc</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</application>
+        <file_path/>
+        <instance_id>eaa22c40db0a5f0889535d00cf9619b6</instance_id>
+        <instance_name>dev58655</instance_name>
+        <name>sys_security_acl_role_21cfb21947e1311077acc7de826d4318</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-27 09:01:00</sys_created_on><sys_id>21cfb21947e1311077acc7de826d4318</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1070677_los_po_0_underwriter_table.x_1070677_los_po_0.los loan appraiser</sys_name><sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package><sys_policy/><sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope><sys_security_acl display_value="x_1070677_los_po_0_underwriter_table">9dcf721947e1311077acc7de826d43a8</sys_security_acl><sys_update_name>sys_security_acl_role_21cfb21947e1311077acc7de826d4318</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-27 09:01:00</sys_updated_on><sys_user_role display_value="x_1070677_los_po_0.los loan appraiser" name="x_1070677_los_po_0.los loan appraiser">3a4dccfc4761311077acc7de826d43dc</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>950618289</payload_hash>
+        <record_name>x_1070677_los_po_0_underwriter_table.x_1070677_los_po_0.los loan appraiser</record_name>
+        <reverted_from/>
+        <source>764dccfc4761311077acc7de826d43c4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-27 09:01:00</sys_created_on>
+        <sys_id>f9cfb21947e1311077acc7de826d431a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ad5dec27a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-27 09:01:00</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>fdcfb21922e131106c50a222e64ebf19</update_guid>
+        <update_guid_history>fdcfb21922e131106c50a222e64ebf19:950618289</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1070677_los_po_0_underwriter_table.x_1070677_los_po_0.los loan appraiser">a22921144792311077acc7de826d438f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-31 06:55:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>4ce9359f0ba846c09226dd816db4f440</sys_id>
+        <sys_metadata>21cfb21947e1311077acc7de826d4318</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1070677_los_po_0_underwriter_table.x_1070677_los_po_0.los loan appraiser</sys_name>
+        <sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package>
+        <sys_parent display_value="">9dcf721947e1311077acc7de826d43a8</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope>
+        <sys_scope_delete display_value="">c71a3250316f4dba9db57f2d39538ae4</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_21cfb21947e1311077acc7de826d4318</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_21cfb21947e1311077acc7de826d4318">f9cfb21947e1311077acc7de826d431a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-31 06:55:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

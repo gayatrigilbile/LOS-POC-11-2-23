@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_registry_m2m_category">
+    <sys_ux_registry_m2m_category action="DELETE">
+        <experience_category display_value="Workspace">afb4e3e173322010f0ca1e666bf6a726</experience_category>
+        <page_registry display_value="">8d0a255f34e1311090be00da91ea6965</page_registry>
+        <sys_class_name>sys_ux_registry_m2m_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-03 07:54:11</sys_created_on>
+        <sys_id>3c0a255fa4e1311081b0aa54e0464a51</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope>
+        <sys_update_name>sys_ux_registry_m2m_category_3c0a255fa4e1311081b0aa54e0464a51</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-03 07:54:11</sys_updated_on>
+    </sys_ux_registry_m2m_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</application>
+        <file_path/>
+        <instance_id>eaa22c40db0a5f0889535d00cf9619b6</instance_id>
+        <instance_name>dev58655</instance_name>
+        <name>sys_ux_registry_m2m_category_3c0a255fa4e1311081b0aa54e0464a51</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_registry_m2m_category"><sys_ux_registry_m2m_category action="INSERT_OR_UPDATE"><experience_category display_value="Workspace">afb4e3e173322010f0ca1e666bf6a726</experience_category><page_registry display_value="">8d0a255f34e1311090be00da91ea6965</page_registry><sys_class_name>sys_ux_registry_m2m_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-03 07:54:11</sys_created_on><sys_id>3c0a255fa4e1311081b0aa54e0464a51</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package><sys_policy/><sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope><sys_update_name>sys_ux_registry_m2m_category_3c0a255fa4e1311081b0aa54e0464a51</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-03 07:54:11</sys_updated_on></sys_ux_registry_m2m_category></record_update>]]></payload>
+        <payload_hash>10286876</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-03 08:03:57</sys_created_on>
+        <sys_id>a04ca5134725311077acc7de826d43a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18af490b16a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-03 08:03:57</sys_updated_on>
+        <type>UX Application Category M2M</type>
+        <update_guid>604ca5135a2531107784f422913abaa6</update_guid>
+        <update_guid_history>604ca5135a2531107784f422913abaa6:10286876</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-03 08:03:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_registry_m2m_category">sys_ux_registry_m2m_category</sys_db_object>
+        <sys_id>92136491bc154fe69d4fed3f79286cc1</sys_id>
+        <sys_metadata>3c0a255fa4e1311081b0aa54e0464a51</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope>
+        <sys_scope_delete display_value="">c71a3250316f4dba9db57f2d39538ae4</sys_scope_delete>
+        <sys_update_name>sys_ux_registry_m2m_category_3c0a255fa4e1311081b0aa54e0464a51</sys_update_name>
+        <sys_update_version display_value="sys_ux_registry_m2m_category_3c0a255fa4e1311081b0aa54e0464a51">a04ca5134725311077acc7de826d43a6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-03 08:03:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

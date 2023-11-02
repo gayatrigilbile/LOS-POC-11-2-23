@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="295af8384765311077acc7de826d4315" sys_domain="global" table="x_1070677_los_po_0_loan_requests" version="3" view="workspace-los-poc---2-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-25 10:01:02</sys_created_on>
+            <sys_id>e55a7c384765311077acc7de826d43dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1070677_los_po_0_loan_requests" sys_domain="global" view="5b4a383879653110e4a0124b764a1789">295af8384765311077acc7de826d4315</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-25 10:01:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_1070677_los_po_0_loan_requests</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-25 10:01:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>295af8384765311077acc7de826d4315</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1070677_los_po_0_loan_requests</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope>
+            <sys_update_name>sys_ui_section_295af8384765311077acc7de826d4315</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-25 10:01:02</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Workspace LOS POC   2 0" name="workspace-los-poc---2-0">5b4a383879653110e4a0124b764a1789</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</application>
+        <file_path/>
+        <instance_id>eaa22c40db0a5f0889535d00cf9619b6</instance_id>
+        <instance_name>dev58655</instance_name>
+        <name>sys_ui_section_295af8384765311077acc7de826d4315</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="295af8384765311077acc7de826d4315" sys_domain="global" table="x_1070677_los_po_0_loan_requests" version="3" view="workspace-los-poc---2-0"><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-25 10:01:02</sys_created_on><sys_id>e55a7c384765311077acc7de826d43dc</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1070677_los_po_0_loan_requests" sys_domain="global" view="5b4a383879653110e4a0124b764a1789">295af8384765311077acc7de826d4315</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-25 10:01:02</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_1070677_los_po_0_loan_requests</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-25 10:01:02</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>295af8384765311077acc7de826d4315</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1070677_los_po_0_loan_requests</sys_name><sys_overrides/><sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package><sys_policy/><sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope><sys_update_name>sys_ui_section_295af8384765311077acc7de826d4315</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-25 10:01:02</sys_updated_on><sys_user/><title>true</title><view display_value="Workspace LOS POC   2 0" name="workspace-los-poc---2-0">5b4a383879653110e4a0124b764a1789</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>99338558</payload_hash>
+        <record_name>Loan Requests</record_name>
+        <reverted_from/>
+        <source>764dccfc4761311077acc7de826d43c4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-31 08:08:15</sys_created_on>
+        <sys_id>18c9391447d2311077acc7de826d43f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b84c6adf80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-31 08:08:15</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>d4c939147fd23110091d7b65875350f6</update_guid>
+        <update_guid_history>d4c939147fd23110091d7b65875350f6:99338558</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-31 08:08:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>32706c71c5e849a899c50fc27799b840</sys_id>
+        <sys_metadata>295af8384765311077acc7de826d4315</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1070677_los_po_0_loan_requests</sys_name>
+        <sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package>
+        <sys_parent display_value="Loan Requests">99bd2c344725311077acc7de826d437f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope>
+        <sys_scope_delete display_value="">c71a3250316f4dba9db57f2d39538ae4</sys_scope_delete>
+        <sys_update_name>sys_ui_section_295af8384765311077acc7de826d4315</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_295af8384765311077acc7de826d4315">18c9391447d2311077acc7de826d43f6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-31 08:08:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

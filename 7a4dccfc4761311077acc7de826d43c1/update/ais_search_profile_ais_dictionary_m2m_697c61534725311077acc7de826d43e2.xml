@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="x_1070677_los_po_0_los_poc_new_demo_search_profile_default_spell_check_dictionary">697c61534725311077acc7de826d43c7</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="los-poc-new-demo Search Profile">487ced13ac253110f1311a79f3674de3</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-03 08:04:50</sys_created_on>
+        <sys_id>697c61534725311077acc7de826d43e2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1070677_los_po_0_los_poc_new_demo_search_profile_default_spell_check_dictionary.los-poc-new-demo Search Profile</sys_name>
+        <sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_697c61534725311077acc7de826d43e2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-03 08:04:50</sys_updated_on>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>

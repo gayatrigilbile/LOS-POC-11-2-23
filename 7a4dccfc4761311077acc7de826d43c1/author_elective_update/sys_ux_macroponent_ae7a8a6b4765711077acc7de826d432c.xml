@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
+    <sys_ux_macroponent action="DELETE">
+        <associated_types/>
+        <category>page</category>
+        <component_dependencies/>
+        <composition>[ ]</composition>
+        <da_relay_models/>
+        <data>[ ]</data>
+        <description/>
+        <dispatched_events/>
+        <ext_controller_dep/>
+        <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
+        <extension_point/>
+        <handled_events/>
+        <interactions/>
+        <interfaces/>
+        <internal_event_mappings>{ }</internal_event_mappings>
+        <layout/>
+        <macroponent_dependencies/>
+        <name>LO</name>
+        <output_prop_mapping/>
+        <props>[ ]</props>
+        <required_translations>[ ]</required_translations>
+        <root_component/>
+        <root_component_config/>
+        <root_component_definition/>
+        <schema_version>1.0.0</schema_version>
+        <state_properties>[ ]</state_properties>
+        <sys_class_name>sys_ux_macroponent</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-04 04:54:27</sys_created_on>
+        <sys_id>ae7a8a6b4765711077acc7de826d432c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>LO</sys_name>
+        <sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope>
+        <sys_update_name>sys_ux_macroponent_ae7a8a6b4765711077acc7de826d432c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-04 04:54:28</sys_updated_on>
+    </sys_ux_macroponent>
+    <sys_translated_text action="DELETE" query="documentkey=ae7a8a6b4765711077acc7de826d432c"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</application>
+        <file_path/>
+        <instance_id>eaa22c40db0a5f0889535d00cf9619b6</instance_id>
+        <instance_name>dev58655</instance_name>
+        <name>sys_ux_macroponent_ae7a8a6b4765711077acc7de826d432c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent"><sys_ux_macroponent action="INSERT_OR_UPDATE"><associated_types/><category>page</category><component_dependencies/><composition>[ ]</composition><da_relay_models/><data>[ ]</data><description/><dispatched_events/><ext_controller_dep/><extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends><extension_point/><handled_events/><interactions/><interfaces/><internal_event_mappings>{ }</internal_event_mappings><layout/><macroponent_dependencies/><name>LO</name><output_prop_mapping/><props>[ ]</props><required_translations>[ ]</required_translations><root_component/><root_component_config/><root_component_definition/><schema_version>1.0.0</schema_version><state_properties>[ ]</state_properties><sys_class_name>sys_ux_macroponent</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-04 04:54:27</sys_created_on><sys_id>ae7a8a6b4765711077acc7de826d432c</sys_id><sys_mod_count>1</sys_mod_count><sys_name>LO</sys_name><sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package><sys_policy/><sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope><sys_update_name>sys_ux_macroponent_ae7a8a6b4765711077acc7de826d432c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-04 04:54:28</sys_updated_on></sys_ux_macroponent><sys_translated_text action="delete_multiple" query="documentkey=ae7a8a6b4765711077acc7de826d432c"/></record_update>]]></payload>
+        <payload_hash>-313173234</payload_hash>
+        <record_name>LO</record_name>
+        <reverted_from/>
+        <source>764dccfc4761311077acc7de826d43c4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-04 04:54:28</sys_created_on>
+        <sys_id>3e7a8a6b4765711077acc7de826d435d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18af909935b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-04 04:54:28</sys_updated_on>
+        <type>UX Macroponent Definition</type>
+        <update_guid>b27a8a6b4c657110a6086b71cda1fc5d</update_guid>
+        <update_guid_history>b27a8a6b4c657110a6086b71cda1fc5d:-313173234,a67a8a6b96657110d33b77fb839b0b2e:-779821032</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-04 04:55:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_macroponent">sys_ux_macroponent</sys_db_object>
+        <sys_id>1b307ba5eb7c4fc2860828113f68ff24</sys_id>
+        <sys_metadata>ae7a8a6b4765711077acc7de826d432c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>LO</sys_name>
+        <sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope>
+        <sys_scope_delete display_value="">c71a3250316f4dba9db57f2d39538ae4</sys_scope_delete>
+        <sys_update_name>sys_ux_macroponent_ae7a8a6b4765711077acc7de826d432c</sys_update_name>
+        <sys_update_version display_value="sys_ux_macroponent_ae7a8a6b4765711077acc7de826d432c">3e7a8a6b4765711077acc7de826d435d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-04 04:55:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

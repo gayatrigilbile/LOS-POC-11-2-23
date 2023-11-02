@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="DELETE">
+        <app_config display_value="LOS NEW POC Config">fbb1c2854765311077acc7de826d4356</app_config>
+        <description/>
+        <extension_point/>
+        <fields>sysId</fields>
+        <icon/>
+        <name>Catalog Item Page</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>catalog</route_type>
+        <screen_type display_value="Catalog Item Page">94c1c285006531106413918e789aa79a</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-09-26 09:51:34</sys_created_on>
+        <sys_id>14c1c285c1653110bc9de2f55752d299</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Catalog Item Page</sys_name>
+        <sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope>
+        <sys_update_name>sys_ux_app_route_14c1c285c1653110bc9de2f55752d299</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-09-26 09:51:34</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</application>
+        <file_path/>
+        <instance_id>eaa22c40db0a5f0889535d00cf9619b6</instance_id>
+        <instance_name>dev58655</instance_name>
+        <name>sys_ux_app_route_14c1c285c1653110bc9de2f55752d299</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route"><sys_ux_app_route action="INSERT_OR_UPDATE"><app_config display_value="LOS NEW POC Config">fbb1c2854765311077acc7de826d4356</app_config><description/><extension_point/><fields>sysId</fields><icon/><name>Catalog Item Page</name><optional_parameters/><order>0</order><parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent><parent_macroponent_composition_element_id/><route_type>catalog</route_type><screen_type display_value="Catalog Item Page">94c1c285006531106413918e789aa79a</screen_type><sys_class_name>sys_ux_app_route</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2023-09-26 09:51:34</sys_created_on><sys_id>14c1c285c1653110bc9de2f55752d299</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Catalog Item Page</sys_name><sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package><sys_policy/><sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope><sys_update_name>sys_ux_app_route_14c1c285c1653110bc9de2f55752d299</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-09-26 09:51:34</sys_updated_on></sys_ux_app_route></record_update>]]></payload>
+        <payload_hash>-789746812</payload_hash>
+        <record_name>Catalog Item Page</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-05 10:17:35</sys_created_on>
+        <sys_id>ad0e540c4775311077acc7de826d43d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18aff57c0d10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-05 10:17:35</sys_updated_on>
+        <type>UX App Route</type>
+        <update_guid>6d0e540c7a75311035b74e187d5cd2d1</update_guid>
+        <update_guid_history>6d0e540c7a75311035b74e187d5cd2d1:-789746812</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-05 10:17:35</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_route">sys_ux_app_route</sys_db_object>
+        <sys_id>5cef44ad3f074524b7241a7431ead904</sys_id>
+        <sys_metadata>14c1c285c1653110bc9de2f55752d299</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Catalog Item Page</sys_name>
+        <sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope>
+        <sys_scope_delete display_value="">c71a3250316f4dba9db57f2d39538ae4</sys_scope_delete>
+        <sys_update_name>sys_ux_app_route_14c1c285c1653110bc9de2f55752d299</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_route_14c1c285c1653110bc9de2f55752d299">ad0e540c4775311077acc7de826d43d1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-05 10:17:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

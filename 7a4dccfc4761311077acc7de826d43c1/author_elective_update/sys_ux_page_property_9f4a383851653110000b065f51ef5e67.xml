@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>Header Configuration</description>
+        <name>chrome_header</name>
+        <page display_value="Loan Origination System">974a38380365311052f400d3bcecc2a0</page>
+        <required_translations>[ {
+  "message" : "Configure workspace",
+  "comment" : ""
+}, {
+  "message" : "Display Preferences",
+  "comment" : ""
+}, {
+  "message" : "Notifications",
+  "comment" : ""
+}, {
+  "message" : "Settings",
+  "comment" : ""
+}, {
+  "message" : "Show Badge Count",
+  "comment" : ""
+}, {
+  "message" : "Show Banners",
+  "comment" : ""
+}, {
+  "message" : "Show ribbon",
+  "comment" : ""
+}, {
+  "message" : "Show sidebar",
+  "comment" : ""
+}, {
+  "message" : "UserMenu",
+  "comment" : ""
+}, {
+  "message" : "Wrap list text",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-25 10:00:54</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>9f4a383851653110000b065f51ef5e67</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope>
+        <sys_update_name>sys_ux_page_property_9f4a383851653110000b065f51ef5e67</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-27 10:30:41</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1070677_los_po_0.974a38380365311052f400d3bcecc2a0.root.chrome_header</unique_name>
+        <value>{"privatePage":{"notificationsEnabled":true,"searchEnabled":true,"userPrefsEnabled":true,"contextualConfigurationItems":{"_roles":["workspace_admin"],"enabled":true,"position":150},"globalTools":{"collapsingMenuId":0,"primaryItems":[{"label":"UserMenu","icon":"user","type":"menu","primaryDisplay":"icon","value":{"children":[{"_roles":["workspace_admin"],"label":{"message":"Configure workspace","translatable":true},"type":"navigation","position":100,"primaryDisplay":"none","value":{"type":"external","opensWindow":"true","value":{"href":"/nav_to.do?uri=/sys_ux_app_config.do?sys_id=db4a3838986531105f3023d22e5964a0"}}},{"label":{"message":"Settings","translatable":true},"type":"menu","position":50,"value":{"children":[{"label":{"message":"Display Preferences","translatable":true},"type":"divider"},{"label":{"message":"Show ribbon","translatable":true},"type":"toggle","value":{"_meta":{"_type":"userPreferences","_path":"userPrefName","_value":{"userPrefName":"workspace.showRibbon"},"_default":{"userPrefName":"true"}}}},{"label":{"message":"Show sidebar","translatable":true},"type":"toggle","value":{"_meta":{"_type":"userPreferences","_path":"userPrefName","_value":{"userPrefName":"workspace.showAgentAssist"},"_default":{"userPrefName":"true"}}}},{"label":{"message":"Wrap list text","translatable":true},"type":"toggle","value":{"_meta":{"_type":"userPreferences","_path":"userPrefName","_value":{"userPrefName":"workspace.wrapListText"},"_default":{"userPrefName":"true"}}}},{"label":{"message":"Notifications","translatable":true},"type":"divider"},{"label":{"message":"Show Banners","translatable":true},"type":"toggle","value":{"_meta":{"_type":"userPreferences","_path":"userPrefName","_value":{"userPrefName":"workspace.notifications.showPopups"},"_default":{"userPrefName":"true"}}}},{"label":{"message":"Show Badge Count","translatable":true},"type":"toggle","value":{"_meta":{"_type":"userPreferences","_path":"userPrefName","_value":{"userPrefName":"workspace.notifications.showBadgeCount"},"_default":{"userPrefName":"true"}}}}]}}]}}],"secondaryItems":[]}},"publicPage":{"actionButtons":[],"searchEnabled":false}}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=9f4a383851653110000b065f51ef5e67"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</application>
+        <file_path/>
+        <instance_id>eaa22c40db0a5f0889535d00cf9619b6</instance_id>
+        <instance_name>dev58655</instance_name>
+        <name>sys_ux_page_property_9f4a383851653110000b065f51ef5e67</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>Header Configuration</description><name>chrome_header</name><page display_value="Loan Origination System">974a38380365311052f400d3bcecc2a0</page><required_translations>[ {
+  "message" : "Configure workspace",
+  "comment" : ""
+}, {
+  "message" : "Display Preferences",
+  "comment" : ""
+}, {
+  "message" : "Notifications",
+  "comment" : ""
+}, {
+  "message" : "Settings",
+  "comment" : ""
+}, {
+  "message" : "Show Badge Count",
+  "comment" : ""
+}, {
+  "message" : "Show Banners",
+  "comment" : ""
+}, {
+  "message" : "Show ribbon",
+  "comment" : ""
+}, {
+  "message" : "Show sidebar",
+  "comment" : ""
+}, {
+  "message" : "UserMenu",
+  "comment" : ""
+}, {
+  "message" : "Wrap list text",
+  "comment" : ""
+} ]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-25 10:00:54</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>9f4a383851653110000b065f51ef5e67</sys_id><sys_mod_count>2</sys_mod_count><sys_name>chrome_header</sys_name><sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package><sys_policy/><sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope><sys_update_name>sys_ux_page_property_9f4a383851653110000b065f51ef5e67</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-27 10:30:41</sys_updated_on><type>json</type><unique_name>x_1070677_los_po_0.974a38380365311052f400d3bcecc2a0.root.chrome_header</unique_name><value>{"privatePage":{"notificationsEnabled":true,"searchEnabled":true,"userPrefsEnabled":true,"contextualConfigurationItems":{"_roles":["workspace_admin"],"enabled":true,"position":150},"globalTools":{"collapsingMenuId":0,"primaryItems":[{"label":"UserMenu","icon":"user","type":"menu","primaryDisplay":"icon","value":{"children":[{"_roles":["workspace_admin"],"label":{"message":"Configure workspace","translatable":true},"type":"navigation","position":100,"primaryDisplay":"none","value":{"type":"external","opensWindow":"true","value":{"href":"/nav_to.do?uri=/sys_ux_app_config.do?sys_id=db4a3838986531105f3023d22e5964a0"}}},{"label":{"message":"Settings","translatable":true},"type":"menu","position":50,"value":{"children":[{"label":{"message":"Display Preferences","translatable":true},"type":"divider"},{"label":{"message":"Show ribbon","translatable":true},"type":"toggle","value":{"_meta":{"_type":"userPreferences","_path":"userPrefName","_value":{"userPrefName":"workspace.showRibbon"},"_default":{"userPrefName":"true"}}}},{"label":{"message":"Show sidebar","translatable":true},"type":"toggle","value":{"_meta":{"_type":"userPreferences","_path":"userPrefName","_value":{"userPrefName":"workspace.showAgentAssist"},"_default":{"userPrefName":"true"}}}},{"label":{"message":"Wrap list text","translatable":true},"type":"toggle","value":{"_meta":{"_type":"userPreferences","_path":"userPrefName","_value":{"userPrefName":"workspace.wrapListText"},"_default":{"userPrefName":"true"}}}},{"label":{"message":"Notifications","translatable":true},"type":"divider"},{"label":{"message":"Show Banners","translatable":true},"type":"toggle","value":{"_meta":{"_type":"userPreferences","_path":"userPrefName","_value":{"userPrefName":"workspace.notifications.showPopups"},"_default":{"userPrefName":"true"}}}},{"label":{"message":"Show Badge Count","translatable":true},"type":"toggle","value":{"_meta":{"_type":"userPreferences","_path":"userPrefName","_value":{"userPrefName":"workspace.notifications.showBadgeCount"},"_default":{"userPrefName":"true"}}}}]}}]}}],"secondaryItems":[]}},"publicPage":{"actionButtons":[],"searchEnabled":false}}</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=9f4a383851653110000b065f51ef5e67"/></record_update>]]></payload>
+        <payload_hash>-1015986318</payload_hash>
+        <record_name>chrome_header</record_name>
+        <reverted_from/>
+        <source>764dccfc4761311077acc7de826d43c4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-27 10:30:41</sys_created_on>
+        <sys_id>2b441bdd4725311077acc7de826d43f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ad630df000000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-27 10:30:41</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>6f441bddfb253110c7bafc9aae9125f0</update_guid>
+        <update_guid_history>6f441bddfb253110c7bafc9aae9125f0:-1015986318,705af838eb653110f484297af1815670:-1065968743,f85af838d0653110c50f4603b5f68f6e:-129498025</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-31 08:11:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>06336325a1b2408c8030434c69e40584</sys_id>
+        <sys_metadata>9f4a383851653110000b065f51ef5e67</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope>
+        <sys_scope_delete display_value="">c71a3250316f4dba9db57f2d39538ae4</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_9f4a383851653110000b065f51ef5e67</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_9f4a383851653110000b065f51ef5e67">2b441bdd4725311077acc7de826d43f1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-31 08:11:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

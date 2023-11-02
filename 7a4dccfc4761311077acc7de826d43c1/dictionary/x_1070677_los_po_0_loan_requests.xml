@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="99bd2c344725311077acc7de826d437f" label="Loan Requests" max_length="40" name="x_1070677_los_po_0_loan_requests" text_index="true" type="collection">
+        <element label="Applicant's City" max_length="40" name="applicant_city" type="string"/>
+        <element label="Applicant's Country" max_length="40" name="applicant_country" type="string"/>
+        <element label="Applicant's State" max_length="40" name="applicant_state" type="string"/>
+        <element label="Applicant's Street Address" max_length="40" name="applicant_street_address" type="string"/>
+        <element label="Applicant's Zipcode" max_length="40" name="applicant_zipcode" type="integer"/>
+        <element label="Appraisal Date" max_length="40" name="appraisal_date" type="glide_date"/>
+        <element label="Appraised Amount" max_length="40" name="appraised_amount" type="integer"/>
+        <element label="Appraiser's Comments" max_length="250" name="appraiser_s_comments" type="string"/>
+        <element choice="1" label="Approval" max_length="40" name="approval" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Requested" sequence="0" value="requested"/>
+                <element inactive_on_update="false" label="Approved By Loan Processor" sequence="1" value="approved_by_loan_processor"/>
+                <element inactive_on_update="false" label="Approved By Appraiser" sequence="2" value="approved_by_appraiser"/>
+                <element inactive_on_update="false" label="Approved By Underwriter" sequence="3" value="approved_by_underwriter"/>
+                <element inactive_on_update="false" label="Approved By Fund Manager" sequence="4" value="approved_by_fund_manager"/>
+                <element inactive_on_update="false" label="Cancelled" sequence="5" value="cancelled"/>
+                <element inactive_on_update="false" label="Fund Disbursed" sequence="6" value="fund_disbursed"/>
+            </choice>
+        </element>
+        <element label="APR" max_length="40" name="apr" type="float"/>
+        <element choice="3" label="Assigned To" max_length="40" name="assigned_to" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Loan Processor" sequence="0" value="loan_processor"/>
+                <element inactive_on_update="false" label="Loan Appraiser" sequence="1" value="loan_appraiser"/>
+                <element inactive_on_update="false" label="Underwriter" sequence="2" value="underwriter"/>
+                <element inactive_on_update="false" label="Fund Manager" sequence="3" value="fund_manager"/>
+                <element inactive_on_update="false" label="Fund Disbursed" sequence="4" value="fund_disbursed"/>
+            </choice>
+        </element>
+        <element choice="1" label="Auto Underwriting Options" max_length="40" name="auto_underwriting_options" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Fannie Mae DU" sequence="0" value="fannie_mae_du"/>
+                <element inactive_on_update="false" label="Freddie Mac LP" sequence="1" value="freddie_mac_lp"/>
+            </choice>
+        </element>
+        <element label="Bonus" max_length="40" name="bonus" type="integer"/>
+        <element label="City" max_length="40" name="borrower_s_city" type="string"/>
+        <element label="Country" max_length="40" name="borrower_s_country" type="string"/>
+        <element label="Date Of Birth" max_length="40" name="borrower_s_date_of_birth" type="glide_date"/>
+        <element label="Email" max_length="40" name="borrower_s_email" type="string"/>
+        <element label="First Name" max_length="40" name="borrower_s_first_name" type="string"/>
+        <element choice="1" label="Gender" max_length="40" name="borrower_s_gender" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Male" sequence="0" value="male"/>
+                <element inactive_on_update="false" label="Female" sequence="1" value="female"/>
+                <element inactive_on_update="false" label="Others" sequence="2" value="others"/>
+                <element inactive_on_update="false" label="Decline to state" sequence="3" value="decline_to_state"/>
+            </choice>
+        </element>
+        <element label="Last Name" max_length="40" name="borrower_s_last_name" type="string"/>
+        <element choice="1" label="Marital Status" max_length="40" name="borrower_s_marital_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Married" sequence="0" value="married"/>
+                <element inactive_on_update="false" label="Unmarried" sequence="1" value="unmarried"/>
+                <element inactive_on_update="false" label="Divorcee" sequence="2" value="divorcee"/>
+            </choice>
+        </element>
+        <element label="Middle Name" max_length="40" name="borrower_s_middle_name" type="string"/>
+        <element label="Mother Maiden Name" max_length="40" name="borrower_s_mother_maiden_name" type="string"/>
+        <element label="Nationality" max_length="40" name="borrower_s_nationality" type="string"/>
+        <element label="Phone Number" max_length="40" name="borrower_s_phone_number" type="phone_number_e164"/>
+        <element label="State" max_length="40" name="borrower_s_state" type="string"/>
+        <element label="Street Name" max_length="40" name="borrower_s_street_name" type="string"/>
+        <element label="TIN/SSN" max_length="40" name="borrower_s_tin_ssn" type="string"/>
+        <element label="Borrower's Zipcode" max_length="40" name="borrower_s_zipcode" type="integer"/>
+        <element label="Cash Deposit" max_length="40" name="cash_deposit" type="integer"/>
+        <element label="Creditors" max_length="40" name="creditors" type="integer"/>
+        <element label="Designation" max_length="40" name="designation" type="string"/>
+        <element label="Employer Address" max_length="40" name="employer_address" type="string"/>
+        <element label="Employer Name" max_length="40" name="employer_name" type="string"/>
+        <element choice="1" label="Employment Type" max_length="40" name="employment_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Full Time" sequence="0" value="full_time"/>
+                <element inactive_on_update="false" label="Part Time" sequence="1" value="part_time"/>
+                <element inactive_on_update="false" label="Contract" sequence="2" value="contract"/>
+            </choice>
+        </element>
+        <element label="Experience (in years)" max_length="40" name="experience_in_years" type="integer"/>
+        <element label="Fixed Assets" max_length="40" name="fixed_assets" type="integer"/>
+        <element choice="1" label="Get Approval" max_length="40" name="get_approval" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Approve" sequence="0" value="approve"/>
+                <element inactive_on_update="false" label="Reject" sequence="1" value="reject"/>
+                <element inactive_on_update="false" label="Reassign" sequence="2" value="reassign"/>
+            </choice>
+        </element>
+        <element label="Gross Salary" max_length="40" name="gross_salary" type="integer"/>
+        <element label="Interest Rate" max_length="40" name="interest_rate" type="float"/>
+        <element label="Investment Amount" max_length="40" name="investment_amount" type="integer"/>
+        <element label="Loan Amount" max_length="40" name="loan_amount" type="integer"/>
+        <element label="Loan Outstanding" max_length="40" name="loan_outstanding" type="integer"/>
+        <element label="Loan Processor's Comment" max_length="40" name="loan_processor_s_comment" type="string"/>
+        <element choice="1" label="Loan Purpose" max_length="40" name="loan_purpose" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Purchase" sequence="0" value="purchase"/>
+                <element inactive_on_update="false" label="Refinance" sequence="1" value="refinance"/>
+            </choice>
+        </element>
+        <element choice="1" label="Loan Type" max_length="40" name="loan_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="15 Year Fixed" sequence="0" value="year_fixed"/>
+                <element inactive_on_update="false" label="5/1 ARM" sequence="2" value="5_1_arm"/>
+                <element inactive_on_update="false" label="7/1 ARM" sequence="3" value="7_1_arm"/>
+                <element inactive_on_update="false" label="10/1 ARM" sequence="4" value="10_arm"/>
+            </choice>
+        </element>
+        <element choice="1" label="Lock Type" max_length="40" name="lock_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="30 Days" sequence="0" value="30days"/>
+                <element inactive_on_update="false" label="60 Days" sequence="1" value="60days"/>
+                <element inactive_on_update="false" label="90 Days" sequence="2" value="90days"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Other" max_length="40" name="other" type="integer"/>
+        <element label="Others" max_length="40" name="others" type="integer"/>
+        <element label="Other Assets" max_length="40" name="other_assets" type="integer"/>
+        <element label="Other Income" max_length="40" name="other_income" type="integer"/>
+        <element choice="1" label="Product Type" max_length="40" name="product_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Asset Based Loan" sequence="0" value="asset_based_loan"/>
+                <element inactive_on_update="false" label="Business Loan" sequence="1" value="business_loan"/>
+                <element inactive_on_update="false" label="Vehicle Loan" sequence="2" value="vehicle_loan"/>
+            </choice>
+        </element>
+        <element choice="1" label="Property Type" max_length="40" name="property_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Single Family" sequence="0" value="single_family"/>
+                <element inactive_on_update="false" label="Joint Family" sequence="1" value="joint_family"/>
+            </choice>
+        </element>
+        <element label="Requested By" max_length="32" name="requested_by" reference="sys_user" type="reference"/>
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Open" sequence="0" value="open"/>
+                <element inactive_on_update="false" label="Closed" sequence="1" value="closed"/>
+                <element inactive_on_update="false" label="Cancelled" sequence="2" value="cancelled"/>
+            </choice>
+        </element>
+        <element label="Stocks/Bonds" max_length="40" name="stocks_bonds" type="integer"/>
+        <element formula="SUM(gross_salary,bonus,other_income,other)" label="Total" max_length="40" name="total" read_only="true" type="integer" virtual="true" virtual_type="formula"/>
+        <element formula="SUM(cash_deposit,u_401k_ira,fixed_assets,investment_amount,stocks_bonds,other_assets)" label="Total Of Assets" max_length="40" name="total_of_assets" read_only="true" type="integer" virtual="true" virtual_type="formula"/>
+        <element formula="SUM(loan_outstanding,creditors,others)" label="Total Of Liabilities" max_length="40" name="total_of_asset_liabilities" read_only="true" type="integer" virtual="true" virtual_type="formula"/>
+        <element label="Uploaded Documents" max_length="40" name="uploaded_documents" type="file_attachment"/>
+        <element label="401K/IRA" max_length="40" name="u_401k_ira" type="integer"/>
+        <element label="Year Built" max_length="40" name="year_built" type="integer"/>
+        <index name="index">
+            <element name="requested_by"/>
+        </index>
+    </element>
+</database>

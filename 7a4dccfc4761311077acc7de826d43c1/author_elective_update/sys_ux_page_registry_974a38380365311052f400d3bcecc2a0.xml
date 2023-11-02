@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>db4a3838986531105f3023d22e5964a0</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app>
+        <path>loan-origination-system-</path>
+        <root_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-25 10:00:54</sys_created_on>
+        <sys_id>974a38380365311052f400d3bcecc2a0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Loan Origination System</sys_name>
+        <sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope>
+        <sys_update_name>sys_ux_page_registry_974a38380365311052f400d3bcecc2a0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-27 10:30:41</sys_updated_on>
+        <title>Loan Origination System</title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</application>
+        <file_path/>
+        <instance_id>eaa22c40db0a5f0889535d00cf9619b6</instance_id>
+        <instance_name>dev58655</instance_name>
+        <name>sys_ux_page_registry_974a38380365311052f400d3bcecc2a0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>db4a3838986531105f3023d22e5964a0</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes/><page/><parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app><path>loan-origination-system-</path><root_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-25 10:00:54</sys_created_on><sys_id>974a38380365311052f400d3bcecc2a0</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Loan Origination System</sys_name><sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package><sys_policy/><sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope><sys_update_name>sys_ux_page_registry_974a38380365311052f400d3bcecc2a0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-27 10:30:41</sys_updated_on><title>Loan Origination System</title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>-2119742614</payload_hash>
+        <record_name>Loan Origination System</record_name>
+        <reverted_from/>
+        <source>764dccfc4761311077acc7de826d43c4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-27 10:30:41</sys_created_on>
+        <sys_id>d7441bdd4725311077acc7de826d43e9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ad630dd570000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-27 10:30:41</sys_updated_on>
+        <type>UX Application</type>
+        <update_guid>5f441bdd1c25311022f65e12cda9bde8</update_guid>
+        <update_guid_history>5f441bdd1c25311022f65e12cda9bde8:-2119742614,53441bdd6d2531102158d3e0ed49fce7:1300277663</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-31 08:11:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>a812a25d299146128b4e7c9ac5151721</sys_id>
+        <sys_metadata>974a38380365311052f400d3bcecc2a0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loan Origination System</sys_name>
+        <sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope>
+        <sys_scope_delete display_value="">c71a3250316f4dba9db57f2d39538ae4</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_974a38380365311052f400d3bcecc2a0</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_974a38380365311052f400d3bcecc2a0">d7441bdd4725311077acc7de826d43e9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-31 08:11:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

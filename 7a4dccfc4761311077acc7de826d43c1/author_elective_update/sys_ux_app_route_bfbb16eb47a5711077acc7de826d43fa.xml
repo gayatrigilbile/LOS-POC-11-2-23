@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="DELETE">
+        <app_config display_value="LOS NEW POC Config">fbb1c2854765311077acc7de826d4356</app_config>
+        <description/>
+        <extension_point/>
+        <fields>sysId</fields>
+        <icon/>
+        <name>loan processor approval preview</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>loan-processor-approval-preview</route_type>
+        <screen_type display_value="loan processor approval preview">63bb9a2b47a5711077acc7de826d4377</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-04 06:09:54</sys_created_on>
+        <sys_id>bfbb16eb47a5711077acc7de826d43fa</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>loan processor approval preview</sys_name>
+        <sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope>
+        <sys_update_name>sys_ux_app_route_bfbb16eb47a5711077acc7de826d43fa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-04 07:34:30</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="DELETE" query="documentkey=bfbb16eb47a5711077acc7de826d43fa"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</application>
+        <file_path/>
+        <instance_id>eaa22c40db0a5f0889535d00cf9619b6</instance_id>
+        <instance_name>dev58655</instance_name>
+        <name>sys_ux_app_route_bfbb16eb47a5711077acc7de826d43fa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route"><sys_ux_app_route action="INSERT_OR_UPDATE"><app_config display_value="LOS NEW POC Config">fbb1c2854765311077acc7de826d4356</app_config><description/><extension_point/><fields>sysId</fields><icon/><name>loan processor approval preview</name><optional_parameters/><order>0</order><parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent><parent_macroponent_composition_element_id/><route_type>loan-processor-approval-preview</route_type><screen_type display_value="loan processor approval preview">63bb9a2b47a5711077acc7de826d4377</screen_type><sys_class_name>sys_ux_app_route</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-04 06:09:54</sys_created_on><sys_id>bfbb16eb47a5711077acc7de826d43fa</sys_id><sys_mod_count>3</sys_mod_count><sys_name>loan processor approval preview</sys_name><sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package><sys_policy/><sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope><sys_update_name>sys_ux_app_route_bfbb16eb47a5711077acc7de826d43fa</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-04 07:34:30</sys_updated_on></sys_ux_app_route><sys_translated_text action="delete_multiple" query="documentkey=bfbb16eb47a5711077acc7de826d43fa"/></record_update>]]></payload>
+        <payload_hash>-2081915485</payload_hash>
+        <record_name>loan processor approval preview</record_name>
+        <reverted_from/>
+        <source>764dccfc4761311077acc7de826d43c4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-04 07:34:30</sys_created_on>
+        <sys_id>fa1f6aef47e5711077acc7de826d43b4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18af99c14d10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-04 07:34:30</sys_updated_on>
+        <type>UX App Route</type>
+        <update_guid>321f6aef26e5711024a6d0b9743776b4</update_guid>
+        <update_guid_history>321f6aef26e5711024a6d0b9743776b4:-2081915485,a15de22f2ee571106465047a3be6b486:1502260520,ef6dde2f4ca57110dbab846fa9cd4af5:1089028870,37bb16eb80a5711086219cd2f80222fc:806312236</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-04 08:18:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_route">sys_ux_app_route</sys_db_object>
+        <sys_id>db083d2123664ac89ceafa3e79b34b44</sys_id>
+        <sys_metadata>bfbb16eb47a5711077acc7de826d43fa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>loan processor approval preview</sys_name>
+        <sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope>
+        <sys_scope_delete display_value="">c71a3250316f4dba9db57f2d39538ae4</sys_scope_delete>
+        <sys_update_name>sys_ux_app_route_bfbb16eb47a5711077acc7de826d43fa</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_route_bfbb16eb47a5711077acc7de826d43fa">fa1f6aef47e5711077acc7de826d43b4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-04 08:18:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

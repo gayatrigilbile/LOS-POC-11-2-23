@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="af2999744729311077acc7de826d43a2" sys_domain="global" table="x_1070677_los_po_0_loan_requests" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-25 12:15:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>372999744729311077acc7de826d43a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1070677_los_po_0_loan_requests" name="x_1070677_los_po_0_loan_requests" sys_domain="global" view="Default view">af2999744729311077acc7de826d43a2</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1070677_los_po_0_loan_requests" sys_domain="global" view="Default view">53cde4744725311077acc7de826d439a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-25 12:15:48</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-25 12:15:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b32999744729311077acc7de826d43a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1070677_los_po_0_loan_requests" name="x_1070677_los_po_0_loan_requests" sys_domain="global" view="Default view">af2999744729311077acc7de826d43a2</sys_ui_form>
+            <sys_ui_section caption="Application Details - Loan Details" display_value="Application Details - Loan Details" name="x_1070677_los_po_0_loan_requests" sys_domain="global" view="Default view">a72999744729311077acc7de826d432d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-25 12:15:48</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-25 12:15:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f32999744729311077acc7de826d43d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1070677_los_po_0_loan_requests" name="x_1070677_los_po_0_loan_requests" sys_domain="global" view="Default view">af2999744729311077acc7de826d43a2</sys_ui_form>
+            <sys_ui_section caption="Application Details - Property Details" display_value="Application Details - Property Details" name="x_1070677_los_po_0_loan_requests" sys_domain="global" view="Default view">af2999744729311077acc7de826d439e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-25 12:15:48</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-25 12:15:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>732999744729311077acc7de826d43d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1070677_los_po_0_loan_requests" name="x_1070677_los_po_0_loan_requests" sys_domain="global" view="Default view">af2999744729311077acc7de826d43a2</sys_ui_form>
+            <sys_ui_section caption="Borrower's Details - Personal Details" display_value="Borrower's Details - Personal Details" name="x_1070677_los_po_0_loan_requests" sys_domain="global" view="Default view">6b2999744729311077acc7de826d439f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-25 12:15:48</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-25 12:15:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f32999744729311077acc7de826d43d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1070677_los_po_0_loan_requests" name="x_1070677_los_po_0_loan_requests" sys_domain="global" view="Default view">af2999744729311077acc7de826d43a2</sys_ui_form>
+            <sys_ui_section caption="Borrower's Details - Contact Details" display_value="Borrower's Details - Contact Details" name="x_1070677_los_po_0_loan_requests" sys_domain="global" view="Default view">272999744729311077acc7de826d43a0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-25 12:15:48</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-25 12:15:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7b2999744729311077acc7de826d43dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1070677_los_po_0_loan_requests" name="x_1070677_los_po_0_loan_requests" sys_domain="global" view="Default view">af2999744729311077acc7de826d43a2</sys_ui_form>
+            <sys_ui_section caption="Borrower's Details - Employer Details" display_value="Borrower's Details - Employer Details" name="x_1070677_los_po_0_loan_requests" sys_domain="global" view="Default view">ef2999744729311077acc7de826d43a0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-25 12:15:48</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-25 12:15:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f32999744729311077acc7de826d43e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1070677_los_po_0_loan_requests" name="x_1070677_los_po_0_loan_requests" sys_domain="global" view="Default view">af2999744729311077acc7de826d43a2</sys_ui_form>
+            <sys_ui_section caption="Borrower's Details - Financial Details" display_value="Borrower's Details - Financial Details" name="x_1070677_los_po_0_loan_requests" sys_domain="global" view="Default view">ab2999744729311077acc7de826d43a1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-25 12:15:48</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-25 12:15:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>732999744729311077acc7de826d43e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1070677_los_po_0_loan_requests" name="x_1070677_los_po_0_loan_requests" sys_domain="global" view="Default view">af2999744729311077acc7de826d43a2</sys_ui_form>
+            <sys_ui_section caption="Borrower's Details -  Assets &amp; Liabiliti" display_value="Borrower's Details -  Assets &amp; Liabiliti" name="x_1070677_los_po_0_loan_requests" sys_domain="global" view="Default view">672999744729311077acc7de826d43a2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-25 12:15:49</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-26 05:49:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>574a4d094761311077acc7de826d43fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1070677_los_po_0_loan_requests" name="x_1070677_los_po_0_loan_requests" sys_domain="global" view="Default view">af2999744729311077acc7de826d43a2</sys_ui_form>
+            <sys_ui_section caption="Documets" display_value="Documets" name="x_1070677_los_po_0_loan_requests" sys_domain="global" view="Default view">db4a4d094761311077acc7de826d43f6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-26 05:49:16</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-26 06:01:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cc2d89c94761311077acc7de826d43f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1070677_los_po_0_loan_requests" name="x_1070677_los_po_0_loan_requests" sys_domain="global" view="Default view">af2999744729311077acc7de826d43a2</sys_ui_form>
+            <sys_ui_section caption="Status &amp; Approval" display_value="Status &amp; Approval" name="x_1070677_los_po_0_loan_requests" sys_domain="global" view="Default view">f71d89c94761311077acc7de826d43f5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-26 06:01:36</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1070677_los_po_0_loan_requests</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-25 12:15:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>af2999744729311077acc7de826d43a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1070677_los_po_0_loan_requests</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope>
+            <sys_update_name>sys_ui_form_sections_af2999744729311077acc7de826d43a2</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-25 12:15:48</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

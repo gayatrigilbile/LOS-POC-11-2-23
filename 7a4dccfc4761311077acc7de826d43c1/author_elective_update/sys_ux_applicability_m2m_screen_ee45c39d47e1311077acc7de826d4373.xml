@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="DELETE">
+        <active>true</active>
+        <applicability display_value="New Loan Request Audience">cf1d78bc4765311077acc7de826d43e4</applicability>
+        <order>0</order>
+        <screen display_value="Default">26fe383047a5311077acc7de826d43db</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-27 09:25:05</sys_created_on>
+        <sys_id>ee45c39d47e1311077acc7de826d4373</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_ee45c39d47e1311077acc7de826d4373</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-27 09:46:23</sys_updated_on>
+    </sys_ux_applicability_m2m_screen>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</application>
+        <file_path/>
+        <instance_id>eaa22c40db0a5f0889535d00cf9619b6</instance_id>
+        <instance_name>dev58655</instance_name>
+        <name>sys_ux_applicability_m2m_screen_ee45c39d47e1311077acc7de826d4373</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen"><sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE"><active>true</active><applicability display_value="New Loan Request Audience">cf1d78bc4765311077acc7de826d43e4</applicability><order>0</order><screen display_value="Default">26fe383047a5311077acc7de826d43db</screen><sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-27 09:25:05</sys_created_on><sys_id>ee45c39d47e1311077acc7de826d4373</sys_id><sys_mod_count>2</sys_mod_count><sys_name/><sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package><sys_policy/><sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope><sys_update_name>sys_ux_applicability_m2m_screen_ee45c39d47e1311077acc7de826d4373</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-27 09:46:23</sys_updated_on></sys_ux_applicability_m2m_screen></record_update>]]></payload>
+        <payload_hash>1768494695</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>764dccfc4761311077acc7de826d43c4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-27 09:46:23</sys_created_on>
+        <sys_id>9a2a4bd14725311077acc7de826d435b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ad6084e1a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-27 09:46:23</sys_updated_on>
+        <type>Screen Applicability</type>
+        <update_guid>122a4bd1072531109d945aee78664a5b</update_guid>
+        <update_guid_history>122a4bd1072531109d945aee78664a5b:1768494695,18f903915a253110e2eacf76f21bcea6:-1368056342,ee45c39d3ae131105818ee734fda7175:1768494695</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-29 09:53:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_applicability_m2m_screen">sys_ux_applicability_m2m_screen</sys_db_object>
+        <sys_id>8be325ff4b734b80aa42eb4335684640</sys_id>
+        <sys_metadata>ee45c39d47e1311077acc7de826d4373</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope>
+        <sys_scope_delete display_value="">c71a3250316f4dba9db57f2d39538ae4</sys_scope_delete>
+        <sys_update_name>sys_ux_applicability_m2m_screen_ee45c39d47e1311077acc7de826d4373</sys_update_name>
+        <sys_update_version display_value="sys_ux_applicability_m2m_screen_ee45c39d47e1311077acc7de826d4373">9a2a4bd14725311077acc7de826d435b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-29 09:53:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

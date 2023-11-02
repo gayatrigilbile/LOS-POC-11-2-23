@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>actionConfigId</name>
+        <page display_value="">974a38380365311052f400d3bcecc2a0</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-25 10:00:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>d74a3838d665311006c8403d7618be68</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>actionConfigId</sys_name>
+        <sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope>
+        <sys_update_name>sys_ux_page_property_d74a3838d665311006c8403d7618be68</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-25 10:00:53</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1070677_los_po_0.974a38380365311052f400d3bcecc2a0.root.actionConfigId</unique_name>
+        <value>df28e3db0f1210107d20409dc4767ee0</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</application>
+        <file_path/>
+        <instance_id>eaa22c40db0a5f0889535d00cf9619b6</instance_id>
+        <instance_name>dev58655</instance_name>
+        <name>sys_ux_page_property_d74a3838d665311006c8403d7618be68</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>actionConfigId</name><page display_value="">974a38380365311052f400d3bcecc2a0</page><required_translations>[]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-25 10:00:53</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>d74a3838d665311006c8403d7618be68</sys_id><sys_mod_count>0</sys_mod_count><sys_name>actionConfigId</sys_name><sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package><sys_policy/><sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope><sys_update_name>sys_ux_page_property_d74a3838d665311006c8403d7618be68</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-25 10:00:53</sys_updated_on><type>string</type><unique_name>x_1070677_los_po_0.974a38380365311052f400d3bcecc2a0.root.actionConfigId</unique_name><value>df28e3db0f1210107d20409dc4767ee0</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>720541257</payload_hash>
+        <record_name>actionConfigId</record_name>
+        <reverted_from/>
+        <source>cc5039224702311077acc7de826d4321</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-10-25 20:57:37</sys_created_on>
+        <sys_id>867ab19447d2311077acc7de826d430d</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18b68a0e5e80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>467ab194f6d2311096f8126482cf220d</update_guid>
+        <update_guid_history>467ab194f6d2311096f8126482cf220d:720541257</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-31 08:11:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>7975524ce6f842e3a01c82d26af75e29</sys_id>
+        <sys_metadata>d74a3838d665311006c8403d7618be68</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>actionConfigId</sys_name>
+        <sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope>
+        <sys_scope_delete display_value="">c71a3250316f4dba9db57f2d39538ae4</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_d74a3838d665311006c8403d7618be68</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_d74a3838d665311006c8403d7618be68">867ab19447d2311077acc7de826d430d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-31 08:11:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

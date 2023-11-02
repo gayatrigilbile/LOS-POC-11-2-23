@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="Loan Origination System - Portal">f7b1c2854765311077acc7de826d4356</page>
+        <required_translations>[]</required_translations>
+        <route display_value="">50c1c2859a65311023f2a9e10d9a999c</route>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-09-26 09:51:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>dcc1c285e6653110fb3c3de0ca81ee7c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope>
+        <sys_update_name>sys_ux_page_property_dcc1c285e6653110fb3c3de0ca81ee7c</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-09-26 09:51:37</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1070677_los_po_0.f7b1c2854765311077acc7de826d4356.route.chrome_header.50c1c2859a65311023f2a9e10d9a999c</unique_name>
+        <value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false&#13;
+    }&#13;
+}&#13;
+</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</application>
+        <file_path/>
+        <instance_id>eaa22c40db0a5f0889535d00cf9619b6</instance_id>
+        <instance_name>dev58655</instance_name>
+        <name>sys_ux_page_property_dcc1c285e6653110fb3c3de0ca81ee7c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_header</name><page display_value="Loan Origination System - Portal">f7b1c2854765311077acc7de826d4356</page><required_translations>[]</required_translations><route display_value="">50c1c2859a65311023f2a9e10d9a999c</route><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2023-09-26 09:51:37</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>dcc1c285e6653110fb3c3de0ca81ee7c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_header</sys_name><sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package><sys_policy/><sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope><sys_update_name>sys_ux_page_property_dcc1c285e6653110fb3c3de0ca81ee7c</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-09-26 09:51:37</sys_updated_on><type>json</type><unique_name>x_1070677_los_po_0.f7b1c2854765311077acc7de826d4356.route.chrome_header.50c1c2859a65311023f2a9e10d9a999c</unique_name><value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false&#13;
+    }&#13;
+}&#13;
+</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>896991615</payload_hash>
+        <record_name>chrome_header</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-05 10:19:17</sys_created_on>
+        <sys_id>966e9c0c4775311077acc7de826d4395</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18aff594ded0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-05 10:19:17</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>566e9c0cab7531107292e44c95e06395</update_guid>
+        <update_guid_history>566e9c0cab7531107292e44c95e06395:896991615</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-05 10:19:17</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>87525628256945269fa068ee55cf6844</sys_id>
+        <sys_metadata>dcc1c285e6653110fb3c3de0ca81ee7c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope>
+        <sys_scope_delete display_value="">c71a3250316f4dba9db57f2d39538ae4</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_dcc1c285e6653110fb3c3de0ca81ee7c</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_dcc1c285e6653110fb3c3de0ca81ee7c">966e9c0c4775311077acc7de826d4395</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-05 10:19:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

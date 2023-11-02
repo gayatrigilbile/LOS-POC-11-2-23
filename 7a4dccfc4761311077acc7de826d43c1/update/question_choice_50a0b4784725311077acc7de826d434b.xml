@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>200</order>
+        <published_ref/>
+        <question display_value="Lock Type">2b40fc384725311077acc7de826d43a7</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-25 09:18:38</sys_created_on>
+        <sys_id>50a0b4784725311077acc7de826d434b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>60 Days</sys_name>
+        <sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope>
+        <sys_update_name>question_choice_50a0b4784725311077acc7de826d434b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-25 09:18:38</sys_updated_on>
+        <text>60 Days</text>
+        <value>60_days</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=50a0b4784725311077acc7de826d434b"/>
+</record_update>

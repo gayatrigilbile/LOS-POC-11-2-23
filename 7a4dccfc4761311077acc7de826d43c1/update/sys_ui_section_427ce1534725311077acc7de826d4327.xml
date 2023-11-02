@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Status &amp; Approval" section_id="427ce1534725311077acc7de826d4327" sys_domain="global" table="x_1070677_los_po_0_loan_requests" version="3" view="workspace-los-poc-new-demo-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-03 08:04:52</sys_created_on>
+            <sys_id>027ce1534725311077acc7de826d432a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Status &amp; Approval" display_value="Status &amp; Approval" name="x_1070677_los_po_0_loan_requests" sys_domain="global" view="407ced13262531107bc750dde8c0f3da">427ce1534725311077acc7de826d4327</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-03 08:04:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-03 08:04:52</sys_created_on>
+            <sys_id>0a7ce1534725311077acc7de826d4329</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Status &amp; Approval" display_value="Status &amp; Approval" name="x_1070677_los_po_0_loan_requests" sys_domain="global" view="407ced13262531107bc750dde8c0f3da">427ce1534725311077acc7de826d4327</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-03 08:04:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-03 08:04:52</sys_created_on>
+            <sys_id>067ce1534725311077acc7de826d4329</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Status &amp; Approval" display_value="Status &amp; Approval" name="x_1070677_los_po_0_loan_requests" sys_domain="global" view="407ced13262531107bc750dde8c0f3da">427ce1534725311077acc7de826d4327</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-03 08:04:52</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-03 08:04:52</sys_created_on>
+            <sys_id>0e7ce1534725311077acc7de826d4329</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Status &amp; Approval" display_value="Status &amp; Approval" name="x_1070677_los_po_0_loan_requests" sys_domain="global" view="407ced13262531107bc750dde8c0f3da">427ce1534725311077acc7de826d4327</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-03 08:04:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Status &amp; Approval</caption>
+            <header>false</header>
+            <name>x_1070677_los_po_0_loan_requests</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-03 08:04:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>427ce1534725311077acc7de826d4327</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1070677_los_po_0_loan_requests</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope>
+            <sys_update_name>sys_ui_section_427ce1534725311077acc7de826d4327</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-03 08:04:52</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace LOS POC NEW DEMO 0" name="workspace-los-poc-new-demo-0">407ced13262531107bc750dde8c0f3da</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

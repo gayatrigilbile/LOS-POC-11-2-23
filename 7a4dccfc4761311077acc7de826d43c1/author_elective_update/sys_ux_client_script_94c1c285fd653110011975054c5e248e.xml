@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="DELETE">
+        <includes/>
+        <macroponent display_value="Article page">d4c1c2858e6531104fb799495de73d99</macroponent>
+        <name>setAdditionalDetails</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ */
+function handler({
+    api,
+    event,
+    helpers,
+    imports
+}) {
+    api.setState("additionalDetails", event.payload.value);
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-09-26 09:51:34</sys_created_on>
+        <sys_id>94c1c285fd653110011975054c5e248e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>setAdditionalDetails</sys_name>
+        <sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope>
+        <sys_update_name>sys_ux_client_script_94c1c285fd653110011975054c5e248e</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-09-26 09:51:34</sys_updated_on>
+        <target/>
+        <type/>
+    </sys_ux_client_script>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</application>
+        <file_path/>
+        <instance_id>eaa22c40db0a5f0889535d00cf9619b6</instance_id>
+        <instance_name>dev58655</instance_name>
+        <name>sys_ux_client_script_94c1c285fd653110011975054c5e248e</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ux_client_script"&gt;&lt;sys_ux_client_script action="INSERT_OR_UPDATE"&gt;&lt;includes/&gt;&lt;macroponent display_value="Article page"&gt;d4c1c2858e6531104fb799495de73d99&lt;/macroponent&gt;&lt;name&gt;setAdditionalDetails&lt;/name&gt;&lt;preset/&gt;&lt;required_translations&gt;[ ]&lt;/required_translations&gt;&lt;script&gt;&lt;![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ */
+function handler({
+    api,
+    event,
+    helpers,
+    imports
+}) {
+    api.setState("additionalDetails", event.payload.value);
+}]]&gt;&lt;/script&gt;&lt;script_api_version&gt;2.0.0&lt;/script_api_version&gt;&lt;sys_class_name&gt;sys_ux_client_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;system&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-09-26 09:51:34&lt;/sys_created_on&gt;&lt;sys_id&gt;94c1c285fd653110011975054c5e248e&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;setAdditionalDetails&lt;/sys_name&gt;&lt;sys_package display_value="LOS POC" source="x_1070677_los_po_0"&gt;7a4dccfc4761311077acc7de826d43c1&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="LOS POC"&gt;7a4dccfc4761311077acc7de826d43c1&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ux_client_script_94c1c285fd653110011975054c5e248e&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;system&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-09-26 09:51:34&lt;/sys_updated_on&gt;&lt;target/&gt;&lt;type/&gt;&lt;/sys_ux_client_script&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>2113017219</payload_hash>
+        <record_name>setAdditionalDetails</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-03 07:49:47</sys_created_on>
+        <sys_id>f409eddb47e1311077acc7de826d4389</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18af483b5bb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-03 07:49:47</sys_updated_on>
+        <type>UX Client Script</type>
+        <update_guid>b409eddba9e13110a33d0b6e99d37b89</update_guid>
+        <update_guid_history>b409eddba9e13110a33d0b6e99d37b89:2113017219</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-03 07:49:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_client_script">sys_ux_client_script</sys_db_object>
+        <sys_id>1a633a6992ad4a08a485e8d5e997eee1</sys_id>
+        <sys_metadata>94c1c285fd653110011975054c5e248e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>setAdditionalDetails</sys_name>
+        <sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope>
+        <sys_scope_delete display_value="">c71a3250316f4dba9db57f2d39538ae4</sys_scope_delete>
+        <sys_update_name>sys_ux_client_script_94c1c285fd653110011975054c5e248e</sys_update_name>
+        <sys_update_version display_value="sys_ux_client_script_94c1c285fd653110011975054c5e248e">f409eddb47e1311077acc7de826d4389</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-03 07:49:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

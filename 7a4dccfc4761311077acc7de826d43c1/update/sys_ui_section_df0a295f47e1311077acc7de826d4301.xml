@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Borrower's Details - Personal Details" section_id="df0a295f47e1311077acc7de826d4301" sys_domain="global" table="x_1070677_los_po_0_loan_requests" version="3" view="workspace-los-poc-dashboard--0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>borrower_s_first_name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-03 07:54:18</sys_created_on>
+            <sys_id>db0a295f47e1311077acc7de826d4304</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Borrower's Details - Personal Details" display_value="Borrower's Details - Personal Details" name="x_1070677_los_po_0_loan_requests" sys_domain="global" view="380a255f27e13110aaa9d35d783a695b">df0a295f47e1311077acc7de826d4301</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-03 07:54:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>borrower_s_middle_name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-03 07:54:18</sys_created_on>
+            <sys_id>1f0a295f47e1311077acc7de826d432a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Borrower's Details - Personal Details" display_value="Borrower's Details - Personal Details" name="x_1070677_los_po_0_loan_requests" sys_domain="global" view="380a255f27e13110aaa9d35d783a695b">df0a295f47e1311077acc7de826d4301</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-03 07:54:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>borrower_s_last_name</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-03 07:54:18</sys_created_on>
+            <sys_id>1b0a295f47e1311077acc7de826d432b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Borrower's Details - Personal Details" display_value="Borrower's Details - Personal Details" name="x_1070677_los_po_0_loan_requests" sys_domain="global" view="380a255f27e13110aaa9d35d783a695b">df0a295f47e1311077acc7de826d4301</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-03 07:54:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>borrower_s_mother_maiden_name</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-03 07:54:18</sys_created_on>
+            <sys_id>d30a295f47e1311077acc7de826d4304</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Borrower's Details - Personal Details" display_value="Borrower's Details - Personal Details" name="x_1070677_los_po_0_loan_requests" sys_domain="global" view="380a255f27e13110aaa9d35d783a695b">df0a295f47e1311077acc7de826d4301</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-03 07:54:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-03 07:54:18</sys_created_on>
+            <sys_id>df0a295f47e1311077acc7de826d4304</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Borrower's Details - Personal Details" display_value="Borrower's Details - Personal Details" name="x_1070677_los_po_0_loan_requests" sys_domain="global" view="380a255f27e13110aaa9d35d783a695b">df0a295f47e1311077acc7de826d4301</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-03 07:54:18</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>borrower_s_tin_ssn</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-03 07:54:18</sys_created_on>
+            <sys_id>130a295f47e1311077acc7de826d432b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Borrower's Details - Personal Details" display_value="Borrower's Details - Personal Details" name="x_1070677_los_po_0_loan_requests" sys_domain="global" view="380a255f27e13110aaa9d35d783a695b">df0a295f47e1311077acc7de826d4301</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-03 07:54:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>borrower_s_date_of_birth</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-03 07:54:18</sys_created_on>
+            <sys_id>1f0a295f47e1311077acc7de826d432b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Borrower's Details - Personal Details" display_value="Borrower's Details - Personal Details" name="x_1070677_los_po_0_loan_requests" sys_domain="global" view="380a255f27e13110aaa9d35d783a695b">df0a295f47e1311077acc7de826d4301</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-03 07:54:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>borrower_s_nationality</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-03 07:54:18</sys_created_on>
+            <sys_id>d70a295f47e1311077acc7de826d4304</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Borrower's Details - Personal Details" display_value="Borrower's Details - Personal Details" name="x_1070677_los_po_0_loan_requests" sys_domain="global" view="380a255f27e13110aaa9d35d783a695b">df0a295f47e1311077acc7de826d4301</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-03 07:54:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>borrower_s_gender</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-03 07:54:18</sys_created_on>
+            <sys_id>1b0a295f47e1311077acc7de826d432a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Borrower's Details - Personal Details" display_value="Borrower's Details - Personal Details" name="x_1070677_los_po_0_loan_requests" sys_domain="global" view="380a255f27e13110aaa9d35d783a695b">df0a295f47e1311077acc7de826d4301</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-03 07:54:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>borrower_s_marital_status</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-03 07:54:18</sys_created_on>
+            <sys_id>170a295f47e1311077acc7de826d432b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Borrower's Details - Personal Details" display_value="Borrower's Details - Personal Details" name="x_1070677_los_po_0_loan_requests" sys_domain="global" view="380a255f27e13110aaa9d35d783a695b">df0a295f47e1311077acc7de826d4301</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-03 07:54:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Borrower's Details - Personal Details</caption>
+            <header>false</header>
+            <name>x_1070677_los_po_0_loan_requests</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-03 07:54:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>df0a295f47e1311077acc7de826d4301</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1070677_los_po_0_loan_requests</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope>
+            <sys_update_name>sys_ui_section_df0a295f47e1311077acc7de826d4301</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-03 07:54:18</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace LOS POC Dashboard  0" name="workspace-los-poc-dashboard--0">380a255f27e13110aaa9d35d783a695b</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

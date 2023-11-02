@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>A default view for LOS POC - 2 generated</description>
+        <name>view</name>
+        <page display_value="LOS POC - 2">974a38380365311052f400d3bcecc2a0</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-25 10:00:54</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>1b4a3838aa6531100903c1a0ab134e6a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>view</sys_name>
+        <sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope>
+        <sys_update_name>sys_ux_page_property_1b4a3838aa6531100903c1a0ab134e6a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-25 10:01:02</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1070677_los_po_0.974a38380365311052f400d3bcecc2a0.root.view</unique_name>
+        <value>workspace-los-poc---2-0</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=1b4a3838aa6531100903c1a0ab134e6a"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</application>
+        <file_path/>
+        <instance_id>eaa22c40db0a5f0889535d00cf9619b6</instance_id>
+        <instance_name>dev58655</instance_name>
+        <name>sys_ux_page_property_1b4a3838aa6531100903c1a0ab134e6a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>A default view for LOS POC - 2 generated</description><name>view</name><page display_value="LOS POC - 2">974a38380365311052f400d3bcecc2a0</page><required_translations/><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-25 10:00:54</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>1b4a3838aa6531100903c1a0ab134e6a</sys_id><sys_mod_count>1</sys_mod_count><sys_name>view</sys_name><sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package><sys_policy/><sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope><sys_update_name>sys_ux_page_property_1b4a3838aa6531100903c1a0ab134e6a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-25 10:01:02</sys_updated_on><type>string</type><unique_name>x_1070677_los_po_0.974a38380365311052f400d3bcecc2a0.root.view</unique_name><value>workspace-los-poc---2-0</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=1b4a3838aa6531100903c1a0ab134e6a"/></record_update>]]></payload>
+        <payload_hash>-1009882867</payload_hash>
+        <record_name>view</record_name>
+        <reverted_from/>
+        <source>764dccfc4761311077acc7de826d43c4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-25 10:01:02</sys_created_on>
+        <sys_id>6d5abc384765311077acc7de826d4308</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18acbc900ca0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-25 10:01:02</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>e15abc38e8653110eecdd5f9564a9e08</update_guid>
+        <update_guid_history>e15abc38e8653110eecdd5f9564a9e08:-1009882867,ad5abc389b653110a77369cc84221906:-925921778</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-31 08:11:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>a1b4c97a099a4c5bbc6d7e78e6b97519</sys_id>
+        <sys_metadata>1b4a3838aa6531100903c1a0ab134e6a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>view</sys_name>
+        <sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope>
+        <sys_scope_delete display_value="">c71a3250316f4dba9db57f2d39538ae4</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_1b4a3838aa6531100903c1a0ab134e6a</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_1b4a3838aa6531100903c1a0ab134e6a">6d5abc384765311077acc7de826d4308</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-31 08:11:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_canvas">
+    <par_dashboard_canvas action="DELETE">
+        <dashboard display_value="">700a255f63e13110063e951bfe670c5e</dashboard>
+        <dashboard_tab/>
+        <layout>[]</layout>
+        <sys_class_name>par_dashboard_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-03 07:54:09</sys_created_on>
+        <sys_id>7c0a255f4de13110118d6fb6f933d95e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope>
+        <sys_update_name>par_dashboard_canvas_7c0a255f4de13110118d6fb6f933d95e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-03 07:54:09</sys_updated_on>
+    </par_dashboard_canvas>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</application>
+        <file_path/>
+        <instance_id>eaa22c40db0a5f0889535d00cf9619b6</instance_id>
+        <instance_name>dev58655</instance_name>
+        <name>par_dashboard_canvas_7c0a255f4de13110118d6fb6f933d95e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_canvas"><par_dashboard_canvas action="INSERT_OR_UPDATE"><dashboard display_value="">700a255f63e13110063e951bfe670c5e</dashboard><dashboard_tab/><layout>[]</layout><sys_class_name>par_dashboard_canvas</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-03 07:54:09</sys_created_on><sys_id>7c0a255f4de13110118d6fb6f933d95e</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package><sys_policy/><sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope><sys_update_name>par_dashboard_canvas_7c0a255f4de13110118d6fb6f933d95e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-03 07:54:09</sys_updated_on></par_dashboard_canvas></record_update>]]></payload>
+        <payload_hash>-1182009556</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-03 08:00:45</sys_created_on>
+        <sys_id>6d8be5df47e1311077acc7de826d437a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18af48dbfd20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-03 08:00:45</sys_updated_on>
+        <type>PAR Dashboard Page Canvas</type>
+        <update_guid>2d8be5dfb4e13110756496bdf8f4f17a</update_guid>
+        <update_guid_history>2d8be5dfb4e13110756496bdf8f4f17a:-1182009556</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">a58be5df47e1311077acc7de826d437c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-03 08:00:45</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_canvas">par_dashboard_canvas</sys_db_object>
+        <sys_id>a552f0211916471c98d942d7116d4e10</sys_id>
+        <sys_metadata>7c0a255f4de13110118d6fb6f933d95e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope>
+        <sys_scope_delete display_value="">c71a3250316f4dba9db57f2d39538ae4</sys_scope_delete>
+        <sys_update_name>par_dashboard_canvas_7c0a255f4de13110118d6fb6f933d95e</sys_update_name>
+        <sys_update_version display_value="par_dashboard_canvas_7c0a255f4de13110118d6fb6f933d95e">6d8be5df47e1311077acc7de826d437a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-03 08:00:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

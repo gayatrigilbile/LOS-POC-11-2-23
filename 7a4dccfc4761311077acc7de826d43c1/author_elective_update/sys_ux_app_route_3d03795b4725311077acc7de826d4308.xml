@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="DELETE">
+        <app_config display_value="LOS NEW POC Config">fbb1c2854765311077acc7de826d4356</app_config>
+        <description/>
+        <extension_point/>
+        <fields>sysId</fields>
+        <icon/>
+        <name>Record</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>record</route_type>
+        <screen_type display_value="Record">a503755b4725311077acc7de826d43df</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-03 08:33:31</sys_created_on>
+        <sys_id>3d03795b4725311077acc7de826d4308</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Record</sys_name>
+        <sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope>
+        <sys_update_name>sys_ux_app_route_3d03795b4725311077acc7de826d4308</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-05 07:40:38</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="DELETE" query="documentkey=3d03795b4725311077acc7de826d4308"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</application>
+        <file_path/>
+        <instance_id>eaa22c40db0a5f0889535d00cf9619b6</instance_id>
+        <instance_name>dev58655</instance_name>
+        <name>sys_ux_app_route_3d03795b4725311077acc7de826d4308</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route"><sys_ux_app_route action="INSERT_OR_UPDATE"><app_config display_value="LOS NEW POC Config">fbb1c2854765311077acc7de826d4356</app_config><description/><extension_point/><fields>sysId</fields><icon/><name>Record</name><optional_parameters/><order>0</order><parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent><parent_macroponent_composition_element_id/><route_type>record</route_type><screen_type display_value="Record">a503755b4725311077acc7de826d43df</screen_type><sys_class_name>sys_ux_app_route</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-03 08:33:31</sys_created_on><sys_id>3d03795b4725311077acc7de826d4308</sys_id><sys_mod_count>4</sys_mod_count><sys_name>Record</sys_name><sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package><sys_policy/><sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope><sys_update_name>sys_ux_app_route_3d03795b4725311077acc7de826d4308</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-05 07:40:38</sys_updated_on></sys_ux_app_route><sys_translated_text action="delete_multiple" query="documentkey=3d03795b4725311077acc7de826d4308"/></record_update>]]></payload>
+        <payload_hash>-1416459192</payload_hash>
+        <record_name>Record</record_name>
+        <reverted_from/>
+        <source>764dccfc4761311077acc7de826d43c4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-05 07:40:38</sys_created_on>
+        <sys_id>1e1a733747e1311077acc7de826d434d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18afec80d770000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-05 07:40:38</sys_updated_on>
+        <type>UX App Route</type>
+        <update_guid>921a73371be131106d80a397373fe44d</update_guid>
+        <update_guid_history>921a73371be131106d80a397373fe44d:-1416459192,205937b36ae1311042912cf32417421c:1837904038,60a4aa67d2e57110112f84e468d1aecd:903623479,64836227f4e571107ca08dca367588a6:1383898817,7103795b3e253110f2b6d48bdab4290a:-1669480367</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-05 07:43:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_route">sys_ux_app_route</sys_db_object>
+        <sys_id>087fed7fc2674c40815996a83c4ff890</sys_id>
+        <sys_metadata>3d03795b4725311077acc7de826d4308</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Record</sys_name>
+        <sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope>
+        <sys_scope_delete display_value="">c71a3250316f4dba9db57f2d39538ae4</sys_scope_delete>
+        <sys_update_name>sys_ux_app_route_3d03795b4725311077acc7de826d4308</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_route_3d03795b4725311077acc7de826d4308">1e1a733747e1311077acc7de826d434d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-05 07:43:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

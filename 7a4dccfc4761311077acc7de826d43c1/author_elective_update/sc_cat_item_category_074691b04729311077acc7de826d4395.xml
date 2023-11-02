@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value=" Upload Documents ">b80659704729311077acc7de826d43d0</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-25 12:03:12</sys_created_on>
+        <sys_id>074691b04729311077acc7de826d4395</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?. Upload Documents </sys_name>
+        <sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope>
+        <sys_update_name>sc_cat_item_category_074691b04729311077acc7de826d4395</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-25 12:03:12</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</application>
+        <file_path/>
+        <instance_id>eaa22c40db0a5f0889535d00cf9619b6</instance_id>
+        <instance_name>dev58655</instance_name>
+        <name>sc_cat_item_category_074691b04729311077acc7de826d4395</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value=" Upload Documents ">b80659704729311077acc7de826d43d0</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-25 12:03:12</sys_created_on><sys_id>074691b04729311077acc7de826d4395</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Can We Help You?. Upload Documents </sys_name><sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package><sys_policy/><sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope><sys_update_name>sc_cat_item_category_074691b04729311077acc7de826d4395</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-25 12:03:12</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>308209143</payload_hash>
+        <record_name>Can We Help You?. Upload Documents </record_name>
+        <reverted_from/>
+        <source>764dccfc4761311077acc7de826d43c4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-25 12:03:12</sys_created_on>
+        <sys_id>034691b04729311077acc7de826d4399</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18acc38da220000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-25 12:03:12</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>434691b0b92931100e3dd1534ae2ae98</update_guid>
+        <update_guid_history>434691b0b92931100e3dd1534ae2ae98:308209143</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?. Upload Documents ">ab5655b04729311077acc7de826d4336</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-25 12:03:30</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>06bca964b99a40df8e85054e3850da91</sys_id>
+        <sys_metadata>074691b04729311077acc7de826d4395</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?. Upload Documents </sys_name>
+        <sys_package display_value="LOS POC" source="x_1070677_los_po_0">7a4dccfc4761311077acc7de826d43c1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="LOS POC">7a4dccfc4761311077acc7de826d43c1</sys_scope>
+        <sys_scope_delete display_value="">c71a3250316f4dba9db57f2d39538ae4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_074691b04729311077acc7de826d4395</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_074691b04729311077acc7de826d4395">034691b04729311077acc7de826d4399</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-25 12:03:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
